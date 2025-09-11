@@ -18,14 +18,14 @@ int main() {
     std::cout << "Aku semangat belajar C++!" << std::endl;
 }
 ```
-## 3C-Mencetak bilangan 
+## 1C-Mencetak bilangan 
 ```cpp 
 #include <iostream>
 
 int main() {
     std::cout << "Pak Dengklek memiliki " << 75 << " ekor bebek." << std::endl;
     ```
-## 4D-Menjumlahkan bilangan
+## 1D-Menjumlahkan bilangan
 ```cpp
  #include <iostream>
 
@@ -33,7 +33,7 @@ int main() {
     std::cout << "Pak Dengklek memiliki " << 738 + 519 << " ekor bebek." << std::endl;
 ```
 
-## 5E-String atau Bilangan?
+## 1E-String atau Bilangan?
 ```cpp
 1.
 
@@ -44,23 +44,12 @@ std::cout << "9 kuadrat adalah ";
 std::cout << "9 * 9" << std::endl;
 ```
 
-a
-
-9 kuadrat adalah 81
-
-b
-
-9 kuadrat adalah 
-81
-
-**c**
-
-9 kuadrat adalah 9 * 9
-
-d
-
-9 kuadrat adalah 
-9 * 9
+a.9 kuadrat adalah 81
+b.9 kuadrat adalah 
+  81  
+**c**. 9 kuadrat adalah 9 * 9
+d. 9 kuadrat adalah 
+   9 * 9
 
 2.
 
@@ -69,7 +58,7 @@ Di antara potongan-potongan program di bawah ini, mana sajakah potongan program 
 - I.
     
     ```
-    std::cout << 42 << std::endl;
+     std::cout << 42 << std::endl;
     ```
     
 - II.
@@ -85,23 +74,20 @@ Di antara potongan-potongan program di bawah ini, mana sajakah potongan program 
     ```
     
 
-a
+a.I
+b.II
+c.III
+d.I dan III
+**e**.semua benar
+```
+## 1F-Mengukur kandang
+```cpp #include <iostream>
 
-I
+int main() {
+    // cetak luas kandang
+    std::cout << 364 * 79 << std::endl;
 
-b
-
-II
-
-c
-
-III
-
-d
-
-I dan III
-
-**e**
-
-semua benar
+    // cetak keliling kandang
+    std::cout << (364 * 2 ) + (79 * 2 ) << std::endl;
+}
 ```
