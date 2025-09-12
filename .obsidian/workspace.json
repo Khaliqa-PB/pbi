@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pelajaran 2.md",
+                "file": "Pelajaran 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pelajaran 2"
+              "title": "Pelajaran 1"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#include",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,8 +185,8 @@
   },
   "active": "2342363a3377b036",
   "lastOpenFiles": [
-    "Pelajaran 1.md",
     "Pelajaran 2.md",
+    "Pelajaran 1.md",
     "Pelajaran 2"
   ]
 }

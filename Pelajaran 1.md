@@ -1,5 +1,5 @@
 ## 1A-Program pertamaku 
-Diselesikan oleh : Khaliqa
+Diselesaikan oleh : Khaliqa
 
 ```cpp 
 #include <iostream>
