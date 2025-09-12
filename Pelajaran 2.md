@@ -1,5 +1,6 @@
-Di selesaikan oleh Khaliqa 
+
 ## 2A-include dan std::
+Diselesaikan oleh : Khaliqa
 ```cpp
 1.
 
